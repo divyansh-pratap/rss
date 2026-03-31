@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://dmp-test-feeds-be345c7b-a051-48cc-b6c5-234ceb5fc00c.s3-us-west-2.amazonaws.com/aulee-NonAllowedVideoSupportedShowV6.xml" rel="self" type="application/rss+xml"/>
+    <title>Aulee Non-Art19 Video Supported Show V6</title>
+    <link>https://sites.libsyn.com/404801</link>
+    <language>en</language>
+    <copyright>2026</copyright>
+    <description>Video-supported show from a non-Art19 hosting provider. Has video alternate enclosures but should be gated by HP allowlist. Maps to test entity Show V6.</description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/7541140c-272b-11ee-9263-0f01d10dd322/image/CR_Key_Art_Layered.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Aulee Non-Art19 Video Supported Show V6</title>
+      <link>https://sites.libsyn.com/404801</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle/>
+    <itunes:author>BMC</itunes:author>
+    <itunes:summary>Video-supported show from a non-Art19 hosting provider for E2E Catalog testing.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>BMC</itunes:name>
+      <itunes:email>bmc@amzn.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/7541140c-272b-11ee-9263-0f01d10dd322/image/CR_Key_Art_Layered.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Comedy">
+    </itunes:category>
+    <itunes:category text="TV &amp; Film">
+      <itunes:category text="Film Interviews"/>
+    </itunes:category>
+
+    <!-- Episode V6-E1: Audio + Video from non-Art19 HP (should be gated by allowlist) -->
+    <item>
+      <title>V6-E1 Video Episode Non-Art19 HP</title>
+      <link>https://clubrandom.com</link>
+      <description>Video episode from non-Art19 hosting provider. Video should NOT be ingested due to HP allowlist gating.</description>
+      <pubDate>Mon, 24 Mar 2026 19:00:00 -0000</pubDate>
+      <itunes:title>V6-E1 Video Episode Non-Art19 HP</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>bmc</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9f1d75c2-5936-11ed-ba16-5f54d9cdc15f/image/25ace6e5d7e3a355702c4d7ef4f50da3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <podcast:image href="https://megaphone.imgix.net/podcasts/9f1d75c2-5936-11ed-ba16-5f54d9cdc15f/image/25ace6e5d7e3a355702c4d7ef4f50da3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" purpose="video thumbnail" aspect-ratio="16/9" width="1920" height="1080"/>
+      <itunes:subtitle>Video episode from non-allowlisted HP</itunes:subtitle>
+      <itunes:summary>Video episode from non-Art19 hosting provider for E2E testing.</itunes:summary>
+      <itunes:duration>6880</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/usvBQ/verifi.podscribe.com/rss/p/claritaspod.com/measure/chrt.fm/track/9DD8D/arttrk.com/p/PRGN3/traffic.megaphone.fm/MCI8780707598.mp3?updated=1720939201" length="0" type="audio/mpeg"/>
+      <podcast:alternateEnclosure type="application/vnd.apple.mpegurl">
+        <podcast:source uri="https://video.megaphone.fm/episodes/aulee-v6-e1-video.m3u8"/>
+      </podcast:alternateEnclosure>
+    </item>
+
+    <!-- Episode V6-E2: Audio + Video from non-Art19 HP -->
+    <item>
+      <title>V6-E2 Video Episode Non-Art19 HP</title>
+      <link>https://clubrandom.com</link>
+      <description>Second video episode from non-Art19 hosting provider. Video should NOT be ingested due to HP allowlist gating.</description>
+      <pubDate>Sun, 23 Mar 2026 19:00:00 -0000</pubDate>
+      <itunes:title>V6-E2 Video Episode Non-Art19 HP</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>bmc</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9f1d75c2-5936-11ed-ba16-5f54d9cdc15f/image/25ace6e5d7e3a355702c4d7ef4f50da3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Second video episode from non-allowlisted HP</itunes:subtitle>
+      <itunes:summary>Second video episode from non-Art19 hosting provider for E2E testing.</itunes:summary>
+      <itunes:duration>9076</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/usvBQ/verifi.podscribe.com/rss/p/claritaspod.com/measure/chrt.fm/track/9DD8D/arttrk.com/p/PRGN3/traffic.megaphone.fm/MCI3671314194.mp3?updated=1722187845" length="0" type="audio/mpeg"/>
+      <podcast:alternateEnclosure type="application/vnd.apple.mpegurl">
+        <podcast:source uri="https://video.megaphone.fm/episodes/aulee-v6-e2-video.m3u8"/>
+      </podcast:alternateEnclosure>
+    </item>
+
+    <!-- Episode V6-E3: Audio-only episode in non-Art19 video show -->
+    <item>
+      <title>V6-E3 Audio Only Episode Non-Art19 HP</title>
+      <link>https://clubrandom.com</link>
+      <description>Audio-only episode in non-Art19 video-supported show. No video alternate enclosure.</description>
+      <pubDate>Sat, 22 Mar 2026 19:00:00 -0000</pubDate>
+      <itunes:title>V6-E3 Audio Only Episode Non-Art19 HP</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>bmc</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/9f1d75c2-5936-11ed-ba16-5f54d9cdc15f/image/25ace6e5d7e3a355702c4d7ef4f50da3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Audio-only episode from non-allowlisted HP</itunes:subtitle>
+      <itunes:summary>Audio-only episode in non-Art19 video-supported show for E2E testing.</itunes:summary>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/usvBQ/verifi.podscribe.com/rss/p/claritaspod.com/measure/chrt.fm/track/9DD8D/arttrk.com/p/PRGN3/traffic.megaphone.fm/MCI3671314194.mp3?updated=1722187845" length="0" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
